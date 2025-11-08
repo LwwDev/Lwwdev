@@ -70,11 +70,9 @@ I’m currently expanding my programming skills in **C++ and C#** while continui
 
 ## 📊 GitHub Stats
 
-![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwwdev&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lwwdev&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=lwwdev&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lwwdev&layout=default&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lwwdev&color=blue)
 
 ---
-
-I’m passionate about solving problems, building tools, and continuously learning across IT and software development. ⭐
