@@ -12,7 +12,7 @@ I’m currently expanding my programming skills in **C++ and C#**, and I’m loo
 
 ## 🛠 Programming Languages
 ![C++](https://skillicons.dev/icons?i=cpp)
-![C#](https://skillicons.dev/icons?i=csharp)
+![C#](https://skillicons.dev/icons?i=csharp&perline=6)
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
@@ -25,7 +25,7 @@ I’m currently expanding my programming skills in **C++ and C#**, and I’m loo
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Next.js](https://skillicons.dev/icons?i=nextjs&perline=6)
 ![SolidJS](https://skillicons.dev/icons?i=solid)
 ![Express.js](https://skillicons.dev/icons?i=express)
 ![Django](https://skillicons.dev/icons?i=django)
