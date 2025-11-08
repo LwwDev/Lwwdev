@@ -1,8 +1,10 @@
-![Profile Views](https://komarev.com/ghpvc/?username=lwwdev&color=white)
+![Profile Views](https://komarev.com/ghpvc/?username=lwwdev&color=blue)
 
-# ⚡ Hey! I'm Liam Wang Wohlstedt
+# hi
 
-**IT Support Technician @ MSAB | Aspiring C# & C++ Developer**  
+I'm Liam Wohlstedt
+
+**IT Support Technician @ MSAB | junior C++ & C# Developer**  
 
 I’ve worked across a wide range of **IT fields**, from networking and system administration to IoT, cybersecurity, and automation. Alongside, I’ve been building **web applications and software projects**.  
 
@@ -11,30 +13,32 @@ I’m currently expanding my programming skills in **C++ and C#**, and I’m loo
 ---
 
 ## 🛠 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://skillicons.dev/icons?i=cpp)
+![C#](https://skillicons.dev/icons?i=csharp)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![SQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
 ---
 
 ## 🛠 Tools & Frameworks
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![VPN](https://img.shields.io/badge/-VPN-4B9CD3?style=for-the-badge)
-![Firewall](https://img.shields.io/badge/-Firewall-FF6F61?style=for-the-badge)
+![.NET](https://skillicons.dev/icons?i=dotnet)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![SolidJS](https://skillicons.dev/icons?i=solid)
+![Express.js](https://skillicons.dev/icons?i=express)
+![Django](https://skillicons.dev/icons?i=django)
+![Flask](https://skillicons.dev/icons?i=flask)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Azure](https://skillicons.dev/icons?i=azure)
+![Terraform](https://skillicons.dev/icons?i=terraform)
+![Linux](https://skillicons.dev/icons?i=linux)
 
 ---
 
