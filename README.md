@@ -68,11 +68,8 @@ I’m currently expanding my programming skills in **C++ and C#** while continui
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats (will improve 😅)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=lwwdev&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lwwdev&layout=default&theme=tokyonight)
-
-![Profile Views](https://komarev.com/ghpvc/?username=lwwdev&color=blue)
-
 ---
