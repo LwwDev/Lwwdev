@@ -1,8 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=lwwdev&color=blue)
 
-# hi
-
-I'm Liam Wohlstedt
+# Hello! I'm Liam Wohlstedt
 
 **IT Support Technician @ MSAB | junior C++ & C# Developer**  
 
