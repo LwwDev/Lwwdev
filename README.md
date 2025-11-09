@@ -49,7 +49,4 @@ I’m currently expanding my programming skills in **C++ and C#**, and I’m loo
 
 ---
 
-## 📊 Stats (will improve 😅)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=lwwdev&show_icons=true&theme=tokyonight)
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LwwDev&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)---
