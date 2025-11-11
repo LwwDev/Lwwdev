@@ -49,4 +49,5 @@ I’m currently expanding my programming skills in **C++ and C#**, and I’m loo
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LwwDev&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LwwDev&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+](https://github.com/LwwDev)
