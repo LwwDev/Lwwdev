@@ -39,15 +39,3 @@ I’m currently expanding my programming skills in **C++ and C#**, and I’m loo
 ![Linux](https://skillicons.dev/icons?i=linux)
 
 ---
-
-## 📌 Featured Projects
-
-- **Web App for Habit Tracking** – Full-stack app with React, Firebase Authentication, and Firestore.  
-- **File & Data Automation Scripts** – Python scripts for organizing files, scraping websites, and generating reports.  
-- **Discord Bot with AI Integration** – Python bot using OpenAI API for interactive commands and games.  
-- **Home Lab Setup** – Raspberry Pi and Arduino projects for IoT experiments and automation.
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LwwDev&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
-
