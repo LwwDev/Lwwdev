@@ -5,6 +5,8 @@
 IT Support Technician @ MSAB
 
 I’ve worked across a wide range of **IT fields**, from networking and system administration to IoT, cybersecurity, and automation. Alongside, I’ve been building **web applications and software projects**.  
+
+check my website out https://liamwohlstedt.xyz/
 ---
 
 ## 🛠 Programming Languages
