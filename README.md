@@ -2,12 +2,9 @@
 
 # Hello! I'm Liam Wohlstedt
 
-**IT Support Technician @ MSAB | junior C++ & C# Developer**  
+**IT Support Technician @ MSAB **  
 
 I’ve worked across a wide range of **IT fields**, from networking and system administration to IoT, cybersecurity, and automation. Alongside, I’ve been building **web applications and software projects**.  
-
-I’m currently expanding my programming skills in **C++ and C#**, and I’m looking for opportunities as a **junior C# or C++ developer**, including internships, mentorships, or collaborative projects to gain hands-on experience and grow professionally in software development.
-
 ---
 
 ## 🛠 Programming Languages
