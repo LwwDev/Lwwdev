@@ -9,7 +9,7 @@ I’ve worked across a wide range of **IT fields**, from networking and system a
 check my website out https://liamwohlstedt.xyz/
 ---
 
-## 🛠 Programming Languages
+## 🛠 Programming Languages i have worked with.
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![C#](https://skillicons.dev/icons?i=cs)
 ![Python](https://skillicons.dev/icons?i=python)
@@ -20,7 +20,7 @@ check my website out https://liamwohlstedt.xyz/
 
 ---
 
-## 🛠 Tools & Frameworks
+## 🛠 Tools & Framework i have worked with.
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![React](https://skillicons.dev/icons?i=react)
