@@ -2,7 +2,7 @@
 
 # Hello! I'm Liam Wohlstedt
 
-IT associate @ Voi
+Software Developer @ MSAB
 
 I’ve worked across a wide range of **IT fields**, from networking and system administration to IoT, cybersecurity, and automation. Alongside, I’ve been building **web applications and software projects**.  
 
