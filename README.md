@@ -3,37 +3,3 @@
 # Hello! I'm Liam Wohlstedt
 
 Software Developer @ MSAB
-
-I’ve worked across a wide range of **IT fields**, from networking and system administration to IoT, cybersecurity, and automation. Alongside, I’ve been building **web applications and software projects**.  
-
----
-
-## 🛠 Programming Languages i have worked with.
-![C++](https://skillicons.dev/icons?i=cpp)
-![C#](https://skillicons.dev/icons?i=cs)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![SQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-
----
-
-## 🛠 Tools & Framework i have worked with.
-![.NET](https://skillicons.dev/icons?i=dotnet)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![SolidJS](https://skillicons.dev/icons?i=solidjs)
-![Express.js](https://skillicons.dev/icons?i=express)
-![Django](https://skillicons.dev/icons?i=django)
-![Flask](https://skillicons.dev/icons?i=flask)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Azure](https://skillicons.dev/icons?i=azure)
-![Terraform](https://skillicons.dev/icons?i=terraform)
-![Linux](https://skillicons.dev/icons?i=linux)
-
----
